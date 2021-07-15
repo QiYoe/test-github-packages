@@ -8,10 +8,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com.cnpmjs.org/QiYoe/test-package.git"
+    "url": "https://github.com/qiyoe/test-package"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/QiYoe"
+    "registry": "https://npm.pkg.github.com/qiyoe"
   },
   "author": "",
   "license": "ISC"
