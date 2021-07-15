@@ -11,7 +11,7 @@
     "url": "https://github.com.cnpmjs.org/QiYoe/test-package.git"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/testpackage"
+    "registry": "https://npm.pkg.github.com/QiYoe"
   },
   "author": "",
   "license": "ISC"
